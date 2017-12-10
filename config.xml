@@ -4,8 +4,8 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
     <name>bootsracpAPK</name>
-    <description>bootsracp測試</description>
-    <author href="http://acupun.site/lecture/jquery_phoneGap/jquery_phoneGap.htm" email="abc@yahoo.com.tw">你好</author>
+    <description>bootsracp測試02</description>
+    <author href="http://acupun.site/lecture/jquery_phoneGap/jquery_phoneGap.htm" email="abc@yahoo.com.tw">bootsracp達人</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
